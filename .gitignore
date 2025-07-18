@@ -6,11 +6,5 @@ __pycache__/
 venv/
 
 # Ignore large data files
-*.csv
-
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore system files
-.DS_Store
-Thumbs.db
+training.1600000.processed.noemoticon.csv
+sample_tweets.csv
